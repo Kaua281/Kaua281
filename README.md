@@ -1,6 +1,3 @@
-# 🚀 Kauã Oliveira Seixas 
-
-
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNkbHVvZW5vc2FmZGF4MGxxa2p4dmVuZzE4M2dmM2xoNml5endzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
 </div>
